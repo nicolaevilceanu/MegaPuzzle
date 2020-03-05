@@ -1,0 +1,16 @@
+Aplicatia presupune, un joc de puzzle in C#.
+
+-Aplicatia este structurata pe mai multe clase si form-uri care reprezinta interfata in care utilizatorul o sa poata sa navigheze prin meniu pentru a putea lansa jocul in executie.
+-Jocul o sa aiba o baza de date locala unde o sa putem sa salvam datele de logare pentru utilizatori.Aplicatia oferind posibilitatea utlizatorului de a se inregistra.
+-Utilizatorii sunt de 2 tipuri jucator sau admin(posibil si guest).
+-Unde jocatorul o sa poata sa se logheze si sa joace jocul cu posibilitatea de a salva scorul si a navigha prin meniul destinat acestuia.
+-Adminul o sa aiba posibilitatea de a joca jocul+functii specifice, spre exeplu resetarea top-ului.
+-Guest posibilitatea de a juca jocul fara a putea salva scorul.
+
+Jocul propriu-zis:
+-Presupune un form in care putem selecta o imagine din calculatorul personal/fisierele in care se afla programul.
+-Dupa selectarea imaginii o sa putem alege gradul de dificultate, in functie de acest grad, imagina o sa fie impartita in diferite blocuri.
+-Un timer care reprezinta timpul de cand utilizatorul incearca sa rezolve imaginea.
+-Si posibilitatea de a salva scorul dupa rezolvare (doar pentru admin si jucator).
+-In meniul de rezolvare o sa existe si un buton care rezolva singur imaginea.
+
