@@ -1,0 +1,24 @@
+c:\users\marius\documents\visual studio 2015\Projects\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\bin\Debug\Puzzle_Vilan_Marius.exe.config
+c:\users\marius\documents\visual studio 2015\Projects\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\bin\Debug\Puzzle_Vilan_Marius.exe
+c:\users\marius\documents\visual studio 2015\Projects\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\bin\Debug\Puzzle_Vilan_Marius.pdb
+c:\users\marius\documents\visual studio 2015\Projects\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\obj\Debug\Puzzle_Vilan_Marius.csprojResolveAssemblyReference.cache
+c:\users\marius\documents\visual studio 2015\Projects\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\obj\Debug\Puzzle_Vilan_Marius.Form1.resources
+c:\users\marius\documents\visual studio 2015\Projects\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\obj\Debug\Puzzle_Vilan_Marius.Properties.Resources.resources
+c:\users\marius\documents\visual studio 2015\Projects\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\obj\Debug\Puzzle_Vilan_Marius.csproj.GenerateResource.Cache
+c:\users\marius\documents\visual studio 2015\Projects\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\obj\Debug\Puzzle_Vilan_Marius.exe
+c:\users\marius\documents\visual studio 2015\Projects\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\obj\Debug\Puzzle_Vilan_Marius.pdb
+C:\Users\Marius\documents\visual studio 2015\Projects\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\obj\Debug\Puzzle_Vilan_Marius.Form2.resources
+C:\Users\Marius\documents\visual studio 2015\Projects\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\obj\Debug\Puzzle_Vilan_Marius.MeniuJucator.resources
+C:\Users\Marius\documents\visual studio 2015\Projects\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\obj\Debug\Puzzle_Vilan_Marius.MeniuAdmin.resources
+D:\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\obj\Debug\Puzzle_Vilan_Marius.csprojAssemblyReference.cache
+D:\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\obj\Debug\Puzzle_Vilan_Marius.Form1.resources
+D:\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\obj\Debug\Puzzle_Vilan_Marius.Form2.resources
+D:\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\obj\Debug\Puzzle_Vilan_Marius.MeniuAdmin.resources
+D:\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\obj\Debug\Puzzle_Vilan_Marius.MeniuJucator.resources
+D:\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\obj\Debug\Puzzle_Vilan_Marius.Properties.Resources.resources
+D:\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\obj\Debug\Puzzle_Vilan_Marius.csproj.GenerateResource.cache
+D:\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\obj\Debug\Puzzle_Vilan_Marius.exe
+D:\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\obj\Debug\Puzzle_Vilan_Marius.pdb
+D:\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\bin\Debug\Puzzle_Vilan_Marius.exe.config
+D:\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\bin\Debug\Puzzle_Vilan_Marius.exe
+D:\Puzzle_Vilan_Marius\Puzzle_Vilan_Marius\bin\Debug\Puzzle_Vilan_Marius.pdb
